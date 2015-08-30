@@ -2,7 +2,7 @@
 # Author: Alex Bod
 # Website: http://www.alexbod.com
 # License: The GNU General Public License, version 2
-# admin.sh: Admin url checking shell script
+# admincheck.sh: Admin url checking shell script
 
 # Highlight the result
 RCol='\e[0m'
